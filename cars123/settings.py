@@ -156,5 +156,5 @@ SITE_ID = 1
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 535
 EMAIL_HOST_USER = 'danitodorova2106@gmail.com'
-EMAIL_HOST_PASSWORD = '***'
+EMAIL_HOST_PASSWORD = '111'
 EMAIL_USE_TLS = True
